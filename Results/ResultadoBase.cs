@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlackJack_Api.NewFolder
+namespace BlackJack_Api.Results
 {
     public class ResultadoBase
     {

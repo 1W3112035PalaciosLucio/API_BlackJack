@@ -1,6 +1,6 @@
 ﻿using BlackJack_Api.DataContext;
-using BlackJack_Api.NewFolder;
-using BlackJack_Api.NewFolder1;
+using BlackJack_Api.Results;
+using BlackJack_Api.Commands;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -58,3 +58,4 @@ namespace BlackJack_Api.Controllers
         }
 
     }
+}
